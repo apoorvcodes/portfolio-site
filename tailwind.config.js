@@ -10,8 +10,9 @@ module.exports = {
         "moon": "#151728",
         "space": "#1B1E32",
         "peri": "#D4D8EF",
-        
-
+      },
+      fontFamily: {
+        curs: ["Alex Brush", 'cursive']
       }
     },
   },
