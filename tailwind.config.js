@@ -12,7 +12,8 @@ module.exports = {
         "peri": "#D4D8EF",
       },
       fontFamily: {
-        curs: ["Alex Brush", 'cursive']
+        curs: ["Alex Brush", 'cursive'],
+        robo : ["Roboto", "sans-serif"]
       }
     },
   },
